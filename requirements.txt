@@ -1,0 +1,4 @@
+
+voila==0.2.6
+numpy>=1.13.3
+opencv-contrib-python>=4.2.0.32
