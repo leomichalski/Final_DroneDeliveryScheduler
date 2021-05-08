@@ -1,45 +1,25 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Final_
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+**List Number**: X<br>
+**Discipline Subject**: Final Project<br>
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
-## Alunos
-|Matrícula | Aluno |
+## Students
+|Number | Student |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0146251  |  João Lucas Zarbiélli |
+| 19/0046945  |  Leonardo Michalski Miranda |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Screenshot
+![Screenshot](assets/screenshot.png)
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Video (pt-br, [download link]())
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## How to run
+**Language**: Python <br>
+**Frameworks**: Jupyter; NumPy.
+Access the [notebook]() with Google Colab.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
+## References
 
 
