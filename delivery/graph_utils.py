@@ -83,14 +83,14 @@ class Node(object):
     """
 
     def __init__(self, coord, mtx_shape,
-                 label=None, height=None, distance=-1, path=[], visited=False):
+                 label=None, height=None, distance=-1, path=[]):  # , visited=False):
         self.coord = coord
         self.mtx_shape = mtx_shape
         self.label = label
         self.height = height
         self.distance = distance
         self.path = path
-        self.visited = visited
+        # self.visited = visited
         self.hash = self.__hash__(coord=self.coord, mtx_shape=self.mtx_shape)
 
     def __hash__(self, coord, mtx_shape):
@@ -198,12 +198,12 @@ def find_shortest_path_re(curr_node, goal_hash_list,
             shortest_paths_dict=shortest_paths_dict,
             base_neighbours=base_neighbours
         )
-        nb_node.visited = True
+        #nb_node.visited = True
         shortest_paths_dict[nb_node.hash] = nb_node
 
-        try:
-            if np.array([shortest_paths_dict[h].visited
-                         for h in goal_hash_list]).all():
-                return
-        except KeyError:
-            pass
+        #try:
+        #    if np.array([shortest_paths_dict[h].visited
+        #                 for h in goal_hash_list]).all():
+        #        return
+        #except KeyError:
+        #    pass
