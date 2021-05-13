@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="helipad.svg"
+   inkscape:export-filename="/home/leommiranda/Desktop/Final_LJ/mock_data/images/helipad_.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title3810">Helicopter landing pod sign</title>
+  <metadata
+     id="metadata3023">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Helicopter landing pod sign</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Helicopter landing pod sign logo Rescue Helicopter Service</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>2013-05-27</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Blackfish</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview3021"
+     showgrid="false"
+     inkscape:zoom="0.54115914"
+     inkscape:cx="428.06654"
+     inkscape:cy="319.16069"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g878"
+     inkscape:document-rotation="0" />
+  <desc
+     id="desc2987">C:\PAWEL\wikipedia\obrazki\inne\Helicopter landing pod sign.dxf - scale = 0.209834</desc>
+  <defs
+     id="defs2989">
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path2992"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path2995" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path2997" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path2999" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+  </defs>
+  <g
+     inkscape:label="-1"
+     inkscape:groupmode="layer"
+     id="g878"
+     transform="translate(0,-52.362183)"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#f4a242;fill-opacity:1;stroke:none;stroke-width:5.37799"
+       id="circle874"
+       cx="499.65988"
+       cy="553.58057"
+       r="497.30325" />
+    <rect
+       style="opacity:0.999;fill:#5e5d5e;fill-opacity:1;stroke-width:2.96349;stroke-dasharray:5.92698, 2.96349, 1.48174, 2.96349"
+       id="rect876"
+       width="1018.2016"
+       height="1018.2016"
+       x="-11.177808"
+       y="43.381153" />
+  </g>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g3003"
+     transform="translate(0,-52.362183)"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#f4a242;fill-opacity:1;stroke:none;stroke-width:5.37799"
+       id="path869"
+       cx="499.65988"
+       cy="553.58057"
+       r="497.30325" />
+  </g>
+  <g
+     inkscape:label="linie"
+     inkscape:groupmode="layer"
+     id="g3019"
+     transform="translate(0,-52.362183)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 599.1311,601.2111 v 249.48782 h 99.8 V 251.92815 h -99.8 v 249.48781 h -199.6 V 251.92815 h -99.8 v 598.77077 h 99.8 V 601.2111 Z"
+       id="path3005"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       d="M 995.82983,603.2111 H 920.53559 A 424.15,424.12928 0 0 1 549.2311,974.49745 v 75.29065 a 499,498.97563 0 0 0 446.59873,-446.577 z"
+       id="path3013"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 449.4311,974.49745 v 75.29065 A 499,498.97563 0 0 1 2.8323696,603.2111 H 78.126623 A 424.15,424.12928 0 0 0 449.4311,974.49745 Z"
+       id="path3011"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       d="M 549.2311,132.12963 V 56.839045 A 499,498.97563 0 0 1 995.82983,503.41596 H 920.53559 A 424.15,424.12928 0 0 0 549.2311,132.12963 Z"
+       id="path3009"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       d="M 78.126623,503.41596 A 424.15,424.12928 0 0 1 449.4311,132.12963 V 56.839045 A 499,498.97563 0 0 0 2.8323696,503.41596 Z"
+       id="path3007"
+       inkscape:connector-curvature="0" />
+    <image
+       width="969.79492"
+       height="538.77496"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image1656"
+       x="31.452156"
+       y="275.86981"
+       inkscape:export-xdpi="17.401857"
+       inkscape:export-ydpi="17.401857" />
+  </g>
+</svg>
