@@ -12,5 +12,5 @@ RUN pip install --default-timeout=15000 --requirement /tmp/requirements.txt && \
 
 
 COPY mock_data mock_data
-COPY flight_planner flight_planner
+COPY delivery delivery
 COPY app.ipynb .
