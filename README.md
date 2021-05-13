@@ -18,7 +18,7 @@ One algorithm finds the shortest and fastest paths from the home location to the
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
-## Video (pt-br, [download link]())
+## Video (pt-br, [download link](https://raw.githubusercontent.com/projeto-de-algoritmos/Final_DroneDeliveryScheduler/main/assets/video.mp4))
 
 
 ## How to run
