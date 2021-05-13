@@ -13,7 +13,7 @@
 
 One algorithm finds the shortest and fastest paths from the home location to the delivery locations. Another one schedules the deliveries while maximizing the amount of revenue that's possible to be made with a given quantity of MAVs.
 
-![](assets/drone_traffic.png)
+![](assets/drone_traffic.jpg)
 
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
