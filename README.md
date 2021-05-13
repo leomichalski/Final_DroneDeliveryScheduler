@@ -1,11 +1,5 @@
 # Final_DroneDeliveryScheduler
 
-Flight Zones
-
-![](assets/zones.png)
-
-One algorithm finds the shortest and fastest paths from the home location to the delivery locations. Another one schedules the deliveries while maximizing the amount of revenue that's possible to be made with a given quantity of MAVs.
-
 **List Number**: X<br>
 **Discipline Subject**: Final Project<br>
 
@@ -15,10 +9,17 @@ One algorithm finds the shortest and fastest paths from the home location to the
 | 17/0146251  |  João Lucas Zarbiélli |
 | 19/0046945  |  Leonardo Michalski Miranda |
 
+## About
+
+One algorithm finds the shortest and fastest paths from the home location to the delivery locations. Another one schedules the deliveries while maximizing the amount of revenue that's possible to be made with a given quantity of MAVs.
+
+![](assets/zones.png)
+
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
 ## Video (pt-br, [download link]())
+
 
 ## How to run
 **Tools**: Python; Jupyter; NumPy; OpenCV.
