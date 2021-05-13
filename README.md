@@ -22,5 +22,5 @@ One algorithm finds the shortest and fastest paths from the home location to the
 
 
 ## How to run
-**Tools**: Python; Jupyter; NumPy; OpenCV.
+**Tools**: Python; Jupyter; NumPy; OpenCV.<br>
 Access the [notebook](https://colab.research.google.com/github/projeto-de-algoritmos/Final_DroneDeliveryScheduler/blob/main/app.ipynb) with Google Colab.
