@@ -18,9 +18,9 @@ One algorithm finds the shortest and fastest paths from the home location to the
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
-## Video (pt-br, [download link](https://raw.githubusercontent.com/projeto-de-algoritmos/Final_DroneDeliveryScheduler/main/assets/video.mp4))
+## Video (pt-br, [download link](https://raw.githubusercontent.com/leomichalski/DroneDeliveryScheduler/main/assets/video.mp4))
 
 
 ## How to run
 **Tools**: Python; Jupyter; NumPy; OpenCV.<br>
-Access the [notebook](https://colab.research.google.com/github/projeto-de-algoritmos/Final_DroneDeliveryScheduler/blob/main/app.ipynb) with Google Colab.
+Access the [notebook](https://colab.research.google.com/github/leomichalski/DroneDeliveryScheduler/blob/main/app.ipynb) with Google Colab.
